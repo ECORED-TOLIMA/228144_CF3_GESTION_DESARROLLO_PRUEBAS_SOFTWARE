@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69.323" height="69.323" viewBox="0 0 69.323 69.323">
+  <g id="Grupo_1180606" data-name="Grupo 1180606" transform="translate(-1225.711 -620)">
+    <rect id="Rectángulo_456907" data-name="Rectángulo 456907" width="69.323" height="69.323" transform="translate(1225.711 620)" fill="#62249e"/>
+    <g id="caracteristica" transform="translate(1236.711 631)">
+      <rect id="Rectángulo_457053" data-name="Rectángulo 457053" width="19.59" height="19.59" rx="3" transform="translate(3 3)" fill="#fff"/>
+      <path id="Trazado_1001011" data-name="Trazado 1001011" d="M15.035,17.33a1.7,1.7,0,0,0-2.828,0L3.291,32.78A1.633,1.633,0,0,0,4.7,35.228h17.84a1.633,1.633,0,0,0,1.414-2.449Z" transform="translate(0.046 8.584)" fill="#fff"/>
+      <circle id="Elipse_13872" data-name="Elipse 13872" cx="9.795" cy="9.795" r="9.795" transform="translate(25.855 3)" fill="#fff"/>
+      <path id="Trazado_1001012" data-name="Trazado 1001012" d="M34.506,18.436a6.388,6.388,0,0,0-7.921.744,6.309,6.309,0,0,0-8.876,8.967l6.568,6.572a3.265,3.265,0,0,0,4.618,0l6.566-6.568a6.319,6.319,0,0,0-.955-9.717Z" transform="translate(8.134 9.092)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

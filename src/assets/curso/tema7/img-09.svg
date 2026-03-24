@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="581" height="239" viewBox="0 0 581 239">
+  <g id="Grupo_1180611" data-name="Grupo 1180611" transform="translate(-10193 7565.561)">
+    <rect id="Rectángulo_456940" data-name="Rectángulo 456940" width="581" height="239" transform="translate(10193 -7565.561)" fill="#dfefff"/>
+    <text id="Variables_cuantitativas_discretas_o_cualitativas_ordinales" data-name="Variables cuantitativas discretas o cualitativas ordinales" transform="translate(10267 -7528)" fill="#19538d" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">Variables cuantitativas discretas o cualitativas ordinales</tspan></text>
+    <text id="Ej:_defectos_por_sprint" data-name="Ej: defectos por sprint" transform="translate(10406 -7507)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="0">Ej: defectos por </tspan><tspan y="0" font-family="Roboto-Italic, Roboto" font-style="italic">sprint</tspan></text>
+    <g id="Grupo_1180608" data-name="Grupo 1180608" transform="translate(-17.328 -7)">
+      <g id="Rectángulo_457063" data-name="Rectángulo 457063" transform="translate(10455.663 -7471.315)" fill="#408bd4" stroke="#707070" stroke-width="1">
+        <path d="M6,0H40a6,6,0,0,1,6,6V114a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" stroke="none"/>
+        <path d="M6,.5H40A5.5,5.5,0,0,1,45.5,6V113.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V6A5.5,5.5,0,0,1,6,.5Z" fill="none"/>
+      </g>
+      <g id="Rectángulo_457064" data-name="Rectángulo 457064" transform="translate(10500.663 -7451.315)" fill="#599ddf" stroke="#707070" stroke-width="1">
+        <path d="M6,0H40a6,6,0,0,1,6,6V94a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" stroke="none"/>
+        <path d="M6,.5H40A5.5,5.5,0,0,1,45.5,6V93.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V6A5.5,5.5,0,0,1,6,.5Z" fill="none"/>
+      </g>
+      <g id="Rectángulo_457065" data-name="Rectángulo 457065" transform="translate(10410.663 -7439.315)" fill="#7dbfff" stroke="#707070" stroke-width="1">
+        <path d="M6,0H40a6,6,0,0,1,6,6V82a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" stroke="none"/>
+        <path d="M6,.5H40A5.5,5.5,0,0,1,45.5,6V81.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V6A5.5,5.5,0,0,1,6,.5Z" fill="none"/>
+      </g>
+      <g id="Rectángulo_457066" data-name="Rectángulo 457066" transform="translate(10365.663 -7404.315)" fill="#9ecfff" stroke="#707070" stroke-width="1">
+        <path d="M6,0H40a6,6,0,0,1,6,6V47a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" stroke="none"/>
+        <path d="M6,.5H40A5.5,5.5,0,0,1,45.5,6V46.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V6A5.5,5.5,0,0,1,6,.5Z" fill="none"/>
+      </g>
+      <g id="Rectángulo_457067" data-name="Rectángulo 457067" transform="translate(10545.663 -7414.315)" fill="#7dbfff" stroke="#707070" stroke-width="1">
+        <path d="M6,0H40a6,6,0,0,1,6,6V57a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" stroke="none"/>
+        <path d="M6,.5H40A5.5,5.5,0,0,1,45.5,6V56.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V6A5.5,5.5,0,0,1,6,.5Z" fill="none"/>
+      </g>
+      <g id="Rectángulo_457068" data-name="Rectángulo 457068" transform="translate(10590.663 -7388.315)" fill="#b7dafc" stroke="#707070" stroke-width="1">
+        <path d="M6,0H40a6,6,0,0,1,6,6V31a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" stroke="none"/>
+        <path d="M6,.5H40A5.5,5.5,0,0,1,45.5,6V30.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V6A5.5,5.5,0,0,1,6,.5Z" fill="none"/>
+      </g>
+      <text id="_0-1s" data-name="0-1s" transform="translate(10372.663 -7336.315)" fill="#62249e" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">0-1s</tspan></text>
+      <text id="_1-2s" data-name="1-2s" transform="translate(10417.163 -7336.315)" fill="#19538d" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">1-2s</tspan></text>
+      <text id="_2-3s" data-name="2-3s" transform="translate(10461.663 -7336.315)" fill="#62249e" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">2-3s</tspan></text>
+      <text id="_3-4s" data-name="3-4s" transform="translate(10506.163 -7336.315)" fill="#19538d" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">3-4s</tspan></text>
+      <text id="_4-5s" data-name="4-5s" transform="translate(10552.163 -7336.315)" fill="#62249e" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">4-5s</tspan></text>
+      <text id="_1s" data-name="1s" transform="translate(10616.163 -7336.315)" fill="#19538d" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">1s</tspan></text>
+      <path id="Trazado_1001020" data-name="Trazado 1001020" d="M8819.5-8050.46v124.184H9126.17" transform="translate(1528.33 569.46)" fill="none" stroke="#707070" stroke-width="2"/>
+      <path id="Trazado_1001021" data-name="Trazado 1001021" d="M10603.859-7345.7l10.348,4.215-10.348,5.078" fill="none" stroke="#19538d" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
