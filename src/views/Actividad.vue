@@ -47,7 +47,7 @@ export default {
             {
               id: 'c',
               texto:
-                'Que un sistema informático solo se compone de hardware y software.',
+                'Que un sistema informático solo se compone de <em>hardware</em> y <em>software.</em>',
               esCorrecta: false,
             },
             {
@@ -167,7 +167,7 @@ export default {
           id: 5,
           texto:
             'De los seis elementos de un Sistema de Información (SI), ¿cuál se considera el más crítico?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -200,7 +200,7 @@ export default {
           id: 6,
           texto:
             '¿Qué tipo de sistema de información provee tendencias y resúmenes para decisiones de largo plazo a la alta dirección?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -232,7 +232,7 @@ export default {
         {
           id: 7,
           texto: '¿Qué define el ciclo de vida del software (SDLC)?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -266,7 +266,7 @@ export default {
           id: 8,
           texto:
             '¿En qué fase del SDLC se realiza la elicitación y documentación de las necesidades funcionales?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -299,7 +299,7 @@ export default {
           id: 9,
           texto:
             ' ¿Qué modelo de ciclo de vida es ideal para sistemas críticos con requisitos estables donde cada fase debe aprobarse antes de la siguiente?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -331,7 +331,7 @@ export default {
         {
           id: 10,
           texto: '¿Cuál es el principio fundamental del modelo en V?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -365,7 +365,7 @@ export default {
           id: 11,
           texto:
             'En Scrum, ¿quién es el responsable de priorizar las tareas pendientes en el product backlog?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -398,7 +398,7 @@ export default {
           id: 12,
           texto:
             '¿Qué metodología ágil se enfoca en visualizar el trabajo en un tablero y limitar el trabajo en curso (WIP)?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -431,7 +431,7 @@ export default {
           id: 13,
           texto:
             '¿Cuál es la diferencia técnica entre un proceso y un procedimiento?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -465,7 +465,7 @@ export default {
           id: 14,
           texto:
             '¿Qué técnica de elicitación de requisitos se usa para capturar el conocimiento tácito mediante la observación directa del flujo de trabajo?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -497,7 +497,7 @@ export default {
         {
           id: 15,
           texto: '¿Qué define a un "requisito funcional"?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -531,7 +531,7 @@ export default {
           id: 16,
           texto:
             'El requisito: "El sistema deberá responder en menos de 2 segundos bajo carga", ¿a qué categoría pertenece? ',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -564,7 +564,7 @@ export default {
           id: 17,
           texto:
             '¿Cuál es el objetivo de la estadística descriptiva en el desarrollo de software?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -598,7 +598,7 @@ export default {
           id: 18,
           texto:
             '¿Cuál de las siguientes es una medida de tendencia central que representa el valor con mayor frecuencia en un conjunto de datos?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -630,7 +630,7 @@ export default {
           id: 19,
           texto:
             '¿Qué gráfica es más adecuada para mostrar la distribución de defectos por categoría (lógica, interfaz, seguridad)?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -662,12 +662,13 @@ export default {
         {
           id: 20,
           texto: '¿Qué se considera "deuda técnica"?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'El dinero que se le debe a los proveedores de hardware.',
+              texto:
+                'El dinero que se le debe a los proveedores de <em>hardware.</em>',
               esCorrecta: false,
             },
             {
@@ -677,7 +678,8 @@ export default {
             },
             {
               id: 'c',
-              texto: 'La versión final del software lista para despliegue.',
+              texto:
+                'La versión final del <em>software</em> lista para despliegue.',
               esCorrecta: false,
             },
             {

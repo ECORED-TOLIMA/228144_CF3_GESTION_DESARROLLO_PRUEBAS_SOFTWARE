@@ -267,14 +267,14 @@
             img(src='@/assets/curso/tema5/img-21.svg' alt="Imagen decorativa")
           .p-4
             h4 Flujo de mensaje
-            p.mb-0 Línea discontinua. Representa la comunicación entre participantes de diferentes pools o sistemas.
+            p.mb-0 Línea discontinua. Representa la comunicación entre participantes de diferentes #[i pools] o sistemas.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta.cajon.C04.h-100(style="border-radius: 0px")
           figure
             img(src='@/assets/curso/tema5/img-22.svg' alt="Imagen decorativa")
           .p-4
-            h4 Pool / Lane
-            p.mb-0 Contenedor que agrupa actividades de un participante. Los #[i lanes] dividen el pool por roles o departamentos.
+            h4 #[i Pool / Lane]
+            p.mb-0 Contenedor que agrupa actividades de un participante. Los #[i lanes] dividen el #[i pool] por roles o departamentos.
 
 </template>
 

@@ -67,9 +67,13 @@
     background-size: cover
     background-position: center
     @media (max-width: $bp-max-md)
-      background-image: url("../assets/curso/portada/fondo-banner-principal-md.png")
+      background-image: url("../assets/curso/portada/fondo-banner-principal-md.png") !important
+      overflow: visible !important
+      background-size: 100% 100% !important
     @media (max-width: $bp-max-xs)
-      background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png")
+      background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
+      overflow: visible !important
+      background-size: 100% 100% !important
 
 .banner-interno__fondo
   background-image: url("../assets/curso/portada/banner.png") !important
@@ -117,12 +121,18 @@ figcaption
     padding: 1.5rem
 
 .tarjeta--gris
+  background-color: transparent !important
+  box-shadow: none !important
   background-size: cover
   background-repeat: no-repeat
+  background-position: center
   background-image: url("../assets/curso/tema1/fondo-linea-tiempo.png")
   margin-inline: -3rem !important
+  overflow: hidden
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
+  figure
+    z-index: -1 !important
 
 .tarjeta
   &--BG01
@@ -130,8 +140,11 @@ figcaption
     background-repeat: no-repeat
     background-image: url("../assets/curso/tema1/fondo-slyder.png")
     margin-inline: -3rem !important
+    overflow: visible !important
+    background-size: 100% 100% !important
     @media (max-width: $bp-max-sm)
       margin-inline: -1.5rem !important
+
   &--BG02
     background-size: cover 
     background-repeat: no-repeat
@@ -145,9 +158,6 @@ figcaption
     background-color: #F1E2FF
     border-radius: 20px
   &--BG04
-    background-size: cover
-    background-repeat: no-repeat
-    background-position: center
     background-image: url("../assets/curso/tema6/fondo-slyder-pasos.png")
     margin-inline: -3rem !important
     overflow: hidden
@@ -157,6 +167,8 @@ figcaption
       z-index: -1 !important
 
 .tarjeta--FBG01
+  background-color: transparent !important
+  box-shadow: none !important
   background-size: cover
   background-repeat: no-repeat
   background-position: center
@@ -176,10 +188,15 @@ figcaption
 // Módulo de tarjetas
 .tarjeta.bgslyder
   background-color: #fff
-  padding: 1rem
+  padding: 2rem !important
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05)
   margin: 0 !important
   width: 100%
   height: 100%
+  border-radius: 20px
+
+.custom, .slyder__content
+  width: 100%
 
 .linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
   background-color: #9C2424
@@ -394,3 +411,54 @@ i.fas.fa-circle
   color: black !important
   text-align: center
 
+.slider-fix-bleed
+  position: relative
+
+  .slyder-a
+    background: transparent !important
+
+  .slyder-a__contenido
+    background: transparent !important
+    padding: 0 !important
+
+  .slyder-a__item
+    background: transparent !important
+
+  .row
+    margin-left: auto !important
+    margin-right: auto !important
+    max-width: 1100px  
+
+.slider-fix-bleed .row
+  background: #ffffff
+  border-radius: 20px
+  padding: 2rem
+
+.slyderF-fix-layout
+  position: relative
+
+  .row
+    max-width: 1100px  
+    margin-left: auto !important
+    margin-right: auto !important
+
+.slyderF-wrapper
+  position: relative
+
+.slyderF-container
+  max-width: 1100px
+  margin: 0 auto
+  position: relative
+
+@media (max-width: 1200px) and (min-width: 768px)
+  .slyderF-wrapper .col-lg-8
+    padding-left: 2.5rem
+    padding-right: 2.5rem
+
+.slyder-a__bullets__item
+  background-color: #9C2424 !important
+  border: none !important
+  opacity: 1 !important
+
+.slyder-a__bullets__item--active
+  background-color: #7DBFFF !important

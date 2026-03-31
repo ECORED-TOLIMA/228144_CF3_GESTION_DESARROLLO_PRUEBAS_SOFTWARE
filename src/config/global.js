@@ -69,7 +69,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Sistemas de Información (SI)	12',
+        titulo: 'Sistemas de Información (SI)',
         desarrolloContenidos: true,
       },
       {
@@ -185,27 +185,27 @@ export default {
   },
   glosario: [
     {
-      termino: 'Ambiente de staging',
+      termino: 'Ambiente de <em>staging</em>',
       significado:
         'escenario de pruebas que replica exactamente las condiciones del entorno de producción, utilizado para realizar las validaciones finales antes del despliegue real.',
     },
     {
-      termino: 'Backlog',
+      termino: '<em>Backlog</em>',
       significado:
         'listado priorizado de tareas, requisitos o errores que el equipo de desarrollo debe abordar durante el ciclo de vida del proyecto.',
     },
     {
-      termino: 'Benchmarking',
+      termino: '<em>Benchmarking</em>',
       significado:
         'escenario de pruebas que replica exactamente las condiciones del entorno de producción, utilizado para realizar las validaciones finales antes del despliegue real.',
     },
     {
-      termino: 'Build',
+      termino: '<em>Build</em>',
       significado:
-        'versión específica del software que se genera tras compilar el código fuente y que está lista para ser sometida a procesos de prueba o ejecución.',
+        'versión específica del <em>software</em> que se genera tras compilar el código fuente y que está lista para ser sometida a procesos de prueba o ejecución.',
     },
     {
-      termino: 'Commit',
+      termino: '<em>Commit</em>',
       significado:
         'acción de registrar y confirmar un conjunto de cambios en el código fuente dentro de un sistema de control de versiones.',
     },
@@ -220,46 +220,36 @@ export default {
         'plataforma tecnológica diseñada para la gestión, distribución y control de actividades de formación no presencial o virtual.',
     },
     {
-      termino: 'Pipeline',
+      termino: '<em>Pipeline</em>',
       significado:
         'conjunto de procesos automatizados que permiten que el código sea probado, integrado y desplegado de manera continua y eficiente',
     },
     {
       termino: 'Pruebas de regresión',
       significado:
-        'verificaciones que se realizan tras un cambio o corrección en el software para asegurar que las funcionalidades existentes no se hayan visto afectadas negativamente.',
-    },
-    {
-      termino: 'Pipeline',
-      significado:
-        'conjunto de procesos automatizados que permiten que el código sea probado, integrado y desplegado de manera continua y eficiente',
-    },
-    {
-      termino: 'Pruebas de regresión',
-      significado:
-        'verificaciones que se realizan tras un cambio o corrección en el software para asegurar que las funcionalidades existentes no se hayan visto afectadas negativamente.',
+        'verificaciones que se realizan tras un cambio o corrección en el <em>software</em> para asegurar que las funcionalidades existentes no se hayan visto afectadas negativamente.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Beck, K., et al. (2001). Manifiesto por el Desarrollo Ágil de Software (versión en español). Agile Alliance.',
+        'Beck, K., et al. (2001). <em>Manifiesto por el Desarrollo Ágil de Software</em> (versión en español). Agile Alliance.',
     },
     {
       referencia:
-        'Boehm, B. W. (1988). A Spiral Model of Software Development and Enhancement. IEEE Computer, 21(5), 61–72.',
+        'Boehm, B. W. (1988). A Spiral Model of Software Development and Enhancement. <em>IEEE Computer</em>, 21(5), 61–72.',
     },
     {
       referencia:
-        'Laudon, K. C. & Laudon, J. P. (2020). Sistemas de información gerencial: Administración de la empresa digital (16.ª ed.). Pearson Educación.',
+        'Laudon, K. C. & Laudon, J. P. (2020). <em>Sistemas de información gerencial: Administración de la empresa digital</em> (16.ª ed.). Pearson Educación.',
     },
     {
       referencia:
-        'Royce, W. W. (1970). Managing the Development of Large Software Systems. Proceedings of IEEE WESCON.',
+        'Royce, W. W. (1970). <em>Managing the Development of Large Software Systems.</em> Proceedings of IEEE WESCON.',
     },
     {
       referencia:
-        'Senge, P. M. (1990). La quinta disciplina: El arte y la práctica de la organización abierta al aprendizaje. Nueva York: Doubleday.',
+        'Senge, P. M. (1990). <em>La quinta disciplina: El arte y la práctica de la organización abierta al aprendizaje.</em> Nueva York: Doubleday.',
     },
   ],
   creditos: [

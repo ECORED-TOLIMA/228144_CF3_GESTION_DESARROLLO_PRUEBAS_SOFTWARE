@@ -209,7 +209,7 @@
               figure
                 img(src='@/assets/curso/tema4/img-05.svg', alt='', style='width: 80px; height: 80px').m-auto
             .col-lg
-              p.mb-0 Base de metodologías ágiles: Scrum, XP y Kanban son implementaciones del modelo iterativo. La diferencia entre iterativo e incremental está en el énfasis: el iterativo refina el producto completo; el incremental añade módulos nuevos en cada ciclo. 
+              p.mb-0 #[b Base de metodologías ágiles:] Scrum, XP y Kanban son implementaciones del modelo iterativo. La diferencia entre iterativo e incremental está en el énfasis: el iterativo refina el producto completo; el incremental añade módulos nuevos en cada ciclo. 
 
     p Entre sus principales ventajas se destacan la posibilidad de obtener retroalimentación temprana del cliente, lo que permite validar el producto desde etapas iniciales; su alta adaptabilidad a cambios en los requisitos, facilitando ajustes conforme evoluciona el proyecto; y la integración del aseguramiento de la calidad (QA) en cada iteración, lo que contribuye a detectar y corregir errores de manera continua. No obstante, también presenta desventajas importantes: puede generarse #[b scope creep] (crecimiento descontrolado del alcance) si no existe una adecuada gestión de cambios; requiere una participación activa y constante del cliente, lo cual no siempre es viable; y puede resultar complejo estimar el costo total del proyecto desde el inicio debido a la naturaleza evolutiva del desarrollo. Además, existen otros modelos relevantes que ofrecen enfoques alternativos según las características y necesidades del proyecto.
     p.mb-4 De igual manera y no menos importantes, existen los siguientes modelos:

@@ -151,43 +151,44 @@
     p La TGS establece un vocabulario común para describir cualquier sistema, independientemente de su naturaleza. Estos conceptos son la base del análisis sistémico y se aplican directamente al diseño, desarrollo y prueba de <em>software</em>.
     p.mb-4 Por lo anterior, a continuación, se presenta de manera conceptual los componentes o propiedades de un sistema:
 
-    .tarjeta--BG01.px-md-5.p-lg-0.p-4
-      .row.justify-content-center.align-items-center.my-lg-5.my-4
-        .col-lg-4.col-md-8.col-sm-6.mb-md-4.mb-sm-4.desktop
-          figure
-            img(src='@/assets/curso/tema1/img-13.png', alt='alt' style='margin-bottom: -25px;')
-        .col-lg-8
-          SlyderF.custom.color-acento-botones(columnas="col-lg-4 col-xl-4")
-            .tarjeta.bgslyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6
-                  img(src="@/assets/curso/tema1/img-14.svg", alt="alt")
-              p.text-center #[b Emergencia] 
-              p.text-center Propiedades que surgen de las interacciones del sistema.
-            .tarjeta.bgslyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6
-                  img(src="@/assets/curso/tema1/img-15.svg", alt="alt")
-              p.text-center #[b Entorno]
-              p.text-center Factores externos que influyen en el sistema.
-            .tarjeta.bgslyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6
-                  img(src="@/assets/curso/tema1/img-16.svg", alt="alt")
-              p.text-center #[b Subsistemas]
-              p.text-center Componentes del sistema que pueden analizarse individualmente.
-            .tarjeta.bgslyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6
-                  img(src="@/assets/curso/tema1/img-17.svg", alt="alt")
-              p.text-center #[b Retroalimentación] 
-              p.text-center Mecanismo de autorregulación del sistema.
-            .tarjeta.bgslyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6
-                  img(src="@/assets/curso/tema1/img-18.svg", alt="alt")
-              p.text-center #[b Homeostasis] 
-              p.text-center Capacidad del sistema para mantener el equilibrio.
+    .tarjeta--BG01.px-md-5.p-lg-0.p-4.slyderF-wrapper.slyderF-wrapper--niveles
+      .slyderF-container
+        .row.justify-content-center.align-items-center.my-lg-5.my-4
+          .col-lg-4.col-md-8.col-sm-6.mb-md-4.mb-sm-4.desktop
+            figure
+              img(src='@/assets/curso/tema1/img-13.png', alt='alt' style='margin-bottom: -25px;')
+          .col-lg-8
+            SlyderF.custom.color-acento-botones.slyderF-fix-ipad(columnas="col-lg-4 col-xl-4")
+              .tarjeta.bgslyder.p-4
+                .row.justify-content-center.mb-3
+                  .col-6
+                    img(src="@/assets/curso/tema1/img-14.svg", alt="alt")
+                p.text-center #[b Emergencia] 
+                p.text-center Propiedades que surgen de las interacciones del sistema.
+              .tarjeta.bgslyder.p-4
+                .row.justify-content-center.mb-3
+                  .col-6
+                    img(src="@/assets/curso/tema1/img-15.svg", alt="alt")
+                p.text-center #[b Entorno]
+                p.text-center Factores externos que influyen en el sistema.
+              .tarjeta.bgslyder.p-4
+                .row.justify-content-center.mb-3
+                  .col-6
+                    img(src="@/assets/curso/tema1/img-16.svg", alt="alt")
+                p.text-center #[b Subsistemas]
+                p.text-center Componentes del sistema que pueden analizarse individualmente.
+              .tarjeta.bgslyder.p-4
+                .row.justify-content-center.mb-3
+                  .col-6
+                    img(src="@/assets/curso/tema1/img-17.svg", alt="alt")
+                p.text-center #[b Retroalimentación] 
+                p.text-center Mecanismo de autorregulación del sistema.
+              .tarjeta.bgslyder.p-4
+                .row.justify-content-center.mb-3
+                  .col-6
+                    img(src="@/assets/curso/tema1/img-18.svg", alt="alt")
+                p.text-center #[b Homeostasis] 
+                p.text-center Capacidad del sistema para mantener el equilibrio.
 
     Separador
 
@@ -324,22 +325,22 @@
               ul.lista-ul.mb-0
                 li
                   <i class="fa-solid fa-computer bg-color-1"></i>
-                  span #[b Aprendizaje continuo:] Aprende de sus errores y aciertos de forma sistemática y colectiva.
+                  span #[b Aprendizaje continuo:] aprende de sus errores y aciertos de forma sistemática y colectiva.
                 li 
                   <i class="fa-solid fa-computer bg-color-1"></i>
-                  span #[b Visión compartida:] Todos los miembros comprenden y comparten el propósito y metas del sistema.
+                  span #[b Visión compartida:] todos los miembros comprenden y comparten el propósito y metas del sistema.
                 li 
                   <i class="fa-solid fa-computer bg-color-1"></i>
-                  span #[b Trabajo en equipo:] El aprendizaje colectivo supera la suma del aprendizaje individual.
+                  span #[b Trabajo en equipo:] el aprendizaje colectivo supera la suma del aprendizaje individual.
                 li 
                   <i class="fa-solid fa-computer bg-color-1"></i>
-                  span #[b Modelos mentales:] Cuestiona activamente los supuestos y creencias que guían las decisiones.
+                  span #[b Modelos mentales:] cuestiona activamente los supuestos y creencias que guían las decisiones.
                 li 
                   <i class="fa-solid fa-computer bg-color-1"></i>
-                  span #[b Dominio personal:] Cada persona se compromete con su propio crecimiento y aprendizaje.
+                  span #[b Dominio personal:] cada persona se compromete con su propio crecimiento y aprendizaje.
                 li 
                   <i class="fa-solid fa-computer bg-color-1"></i>
-                  span #[b Pensamiento sistémico:] Comprende las interrelaciones en lugar de reaccionar a eventos aislados.
+                  span #[b Pensamiento sistémico:] comprende las interrelaciones en lugar de reaccionar a eventos aislados.
 
 
 </template>

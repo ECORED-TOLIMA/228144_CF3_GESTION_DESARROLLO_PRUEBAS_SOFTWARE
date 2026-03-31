@@ -117,43 +117,44 @@
     p El procesamiento de datos es el conjunto de operaciones sistemáticas que transforman datos brutos en información útil para la toma de decisiones. Es el núcleo funcional de cualquier sistema de información y el proceso que da sentido a los datos recolectados.
     p.mb-4 Desde una perspectiva sistémica, el procesamiento de datos opera bajo el modelo IPO (Input – Process – Output): los datos ingresan al sistema (entrada), son transformados mediante operaciones específicas (proceso) y se producen resultados con valor informativo (salida). A este ciclo se suma la retroalimentación, que permite verificar y mejorar el proceso. Dicho proceso, se realiza de manera completa de la siguiente manera:
 
-    .tarjeta--BG01.px-md-5.p-lg-0.p-4.mb-4
-      .row.justify-content-center.align-items-center.my-lg-5.my-4
-        .col-lg-4.col-md-8.col-sm-6.mb-md-4.mb-sm-4.desktop
-          figure
-            img(src='@/assets/curso/tema2/img-04.png', alt='alt' style='margin-bottom: -25px;')
-        .col-lg-8
-          SlyderF.custom.color-acento-botones(columnas="col-lg-4 col-xl-4")
-            .tarjeta.bgslyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6
-                  img(src="@/assets/curso/tema2/img-05.svg", alt="alt")
-              p.text-center #[b Entrada] 
-              p.text-center Captura y recolección de datos crudos desde fuentes internas o externas.
-            .tarjeta.bgslyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6
-                  img(src="@/assets/curso/tema2/img-06.svg", alt="alt")
-              p.text-center #[b Validación]
-              p.text-center Verificación de integridad, formato y completitud de los datos recibidos.
-            .tarjeta.bgslyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6
-                  img(src="@/assets/curso/tema2/img-07.svg", alt="alt")
-              p.text-center #[b Procesamiento]
-              p.text-center Clasificación, cálculo, ordenación y transformación de los datos.
-            .tarjeta.bgslyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6
-                  img(src="@/assets/curso/tema2/img-08.svg", alt="alt")
-              p.text-center #[b Almacenamiento] 
-              p.text-center Persistencia del resultado en bases de datos, archivos o repositorios.
-            .tarjeta.bgslyder.p-4
-              .row.justify-content-center.mb-3
-                .col-6
-                  img(src="@/assets/curso/tema2/img-09.svg", alt="alt")
-              p.text-center #[b Salida] 
-              p.text-center Presentación de la información procesada: reportes, <em>dashboards</em>, alertas.
+    .tarjeta--BG01.px-md-5.p-lg-0.p-4.mb-4.slyderF-wrapper.slyderF-wrapper--niveles
+      .slyderF-container
+        .row.justify-content-center.align-items-center.my-lg-5.my-4
+          .col-lg-4.col-md-8.col-sm-6.mb-md-4.mb-sm-4.desktop
+            figure
+              img(src='@/assets/curso/tema2/img-04.png', alt='alt' style='margin-bottom: -25px;')
+          .col-lg-8
+            SlyderF.custom.color-acento-botones(columnas="col-lg-4 col-xl-4")
+              .tarjeta.bgslyder.p-4
+                .row.justify-content-center.mb-3
+                  .col-6
+                    img(src="@/assets/curso/tema2/img-05.svg", alt="alt")
+                p.text-center #[b Entrada] 
+                p.text-center Captura y recolección de datos crudos desde fuentes internas o externas.
+              .tarjeta.bgslyder.p-4
+                .row.justify-content-center.mb-3
+                  .col-6
+                    img(src="@/assets/curso/tema2/img-06.svg", alt="alt")
+                p.text-center #[b Validación]
+                p.text-center Verificación de integridad, formato y completitud de los datos recibidos.
+              .tarjeta.bgslyder.p-4
+                .row.justify-content-center.mb-3
+                  .col-6
+                    img(src="@/assets/curso/tema2/img-07.svg", alt="alt")
+                p.text-center #[b Procesamiento]
+                p.text-center Clasificación, cálculo, ordenación y transformación de los datos.
+              .tarjeta.bgslyder.p-4
+                .row.justify-content-center.mb-3
+                  .col-6
+                    img(src="@/assets/curso/tema2/img-08.svg", alt="alt")
+                p.text-center #[b Almacenamiento] 
+                p.text-center Persistencia del resultado en bases de datos, archivos o repositorios.
+              .tarjeta.bgslyder.p-4
+                .row.justify-content-center.mb-3
+                  .col-6
+                    img(src="@/assets/curso/tema2/img-09.svg", alt="alt")
+                p.text-center #[b Salida] 
+                p.text-center Presentación de la información procesada: reportes, <em>dashboards</em>, alertas.
 
     .row.align-items-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-0(style="z-index:2")
@@ -178,7 +179,7 @@
                 .tarjeta.p-4(style="background-color:#ffff; border-radius:0px; margin-top:-15px;")
                   p.mb-0(style="color:#000 !important") 
                     b Ejemplo:
-                    | formulario de registro de usuarios, lectura de sensores IoT, importación de CSV.
+                    |  formulario de registro de usuarios, lectura de sensores IoT, importación de CSV.
             
             .row.justify-content-center(titulo="B")
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
@@ -189,7 +190,7 @@
                 .tarjeta.p-4(style="background-color:#ffff; border-radius:0px; margin-top:-15px;")
                   p.mb-0(style="color:#000 !important") 
                     b Ejemplo:
-                    | verificar que un <em>email</em> tiene formato válido, que la edad sea un número positivo menor a 150.
+                    |  verificar que un <em>email</em> tiene formato válido, que la edad sea un número positivo menor a 150.
             
             .row.justify-content-center(titulo="C")
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
@@ -200,7 +201,7 @@
                 .tarjeta.p-4(style="background-color:#ffff; border-radius:0px; margin-top:-15px;")
                   p.mb-0(style="color:#000 !important") 
                     b Ejemplo:
-                    | clasificar transacciones por tipo (ingreso/egreso/transferencia) o clientes por segmento.
+                    |  clasificar transacciones por tipo (ingreso/egreso/transferencia) o clientes por segmento.
               
             .row.justify-content-center(titulo="D")
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
@@ -211,7 +212,7 @@
                 .tarjeta.p-4(style="background-color:#ffff; border-radius:0px; margin-top:-15px;")
                   p.mb-0(style="color:#000 !important") 
                     b Ejemplo:
-                    | calcular promedio de ventas, aplicar descuentos, convertir monedas, calcular métricas de cobertura.
+                    |  calcular promedio de ventas, aplicar descuentos, convertir monedas, calcular métricas de cobertura.
               
             .row.justify-content-center(titulo="E")
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
@@ -222,7 +223,7 @@
                 .tarjeta.p-4(style="background-color:#ffff; border-radius:0px; margin-top:-15px;")
                   p.mb-0(style="color:#000 !important") 
                     b Ejemplo:
-                    | ordenar defectos por severidad, listar usuarios por fecha de registro, <em>ranking</em> de ventas.
+                    |  ordenar defectos por severidad, listar usuarios por fecha de registro, <em>ranking</em> de ventas.
               
             .row.justify-content-center(titulo="F")
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
@@ -233,7 +234,7 @@
                 .tarjeta.p-4(style="background-color:#ffff; border-radius:0px; margin-top:-15px;")
                   p.mb-0(style="color:#000 !important") 
                     b Ejemplo:
-                    | cruzar datos de ventas con inventario y CRM para producir un reporte consolidado.
+                    |  cruzar datos de ventas con inventario y CRM para producir un reporte consolidado.
               
             .row.justify-content-center(titulo="G")
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
@@ -244,7 +245,7 @@
                 .tarjeta.p-4(style="background-color:#ffff; border-radius:0px; margin-top:-15px;")
                   p.mb-0(style="color:#000 !important") 
                     b Ejemplo:
-                    | guardar resultados de pruebas en BD, indexar <em>logs</em> para consulta rápida por rango de fechas.
+                    |  guardar resultados de pruebas en BD, indexar <em>logs</em> para consulta rápida por rango de fechas.
               
             .row.justify-content-center(titulo="H")
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
@@ -255,7 +256,7 @@
                 .tarjeta.p-4(style="background-color:#ffff; border-radius:0px; margin-top:-15px;")
                   p.mb-0(style="color:#000 !important") 
                     b Ejemplo:
-                    | <em>dashboard</em> de métricas de calidad, reporte ejecutivo de defectos, alertas automáticas por umbrales.
+                    |  <em>dashboard</em> de métricas de calidad, reporte ejecutivo de defectos, alertas automáticas por umbrales.
           
 
 
