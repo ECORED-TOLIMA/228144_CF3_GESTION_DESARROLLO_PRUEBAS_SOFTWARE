@@ -45,7 +45,7 @@
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/img-03.png', alt="")
               .col-lg-6.order-lg-2.order-2
-                h4 1900-1930
+                h4 1990-1930
                 p Predomina el reduccionismo científico, que explica los fenómenos complejos a partir del análisis aislado de sus partes, especialmente en ciencias naturales y sociales.
                 h4 1937
                 p El biólogo austriaco Ludwig Von Bertalanffy formula los primeros planteamientos de la TGS, cuestionando el enfoque reduccionista y proponiendo estudiar los sistemas como totalidades organizadas.
@@ -119,7 +119,7 @@
           img(src='@/assets/curso/tema1/img-09.svg' alt="")
           .tarjeta--boton.color-secundario.p-4.py-5.h-100(style="background-color:#F1E2FF;")
             h4.text-center.mt-5(style="color:#12263F") Primera formulación
-            p.text-center.mb-0(style="color:#12263F") Bertalanffy presenta la “Teoría d ellos sistemas abiertos” en la Universidad de Chicago.
+            p.text-center.mb-0(style="color:#12263F") Bertalanffy presenta la “Teoría de los sistemas abiertos” en la Universidad de Chicago.
       .col-lg-4.col-8.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/img-10.svg' alt="")
@@ -195,7 +195,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 1.2 Enfoque sistémico
 
-    p Es una manera de pensar y analizar la realidad que concibe cualquier fenómeno una organización, un proceso de <em>software</em> y un ecosistema como un sistema integrado, no como una suma de partes independientes. Surge directamente de la Teoría General de Sistemas (TGC) de Bertalanffy y se convirtió en el paradigma dominante para gestionar complejidad en el siglo XX y XXI.
+    p Es una manera de pensar y analizar la realidad que concibe cualquier fenómeno una organización, un proceso de <em>software</em> y un ecosistema como un sistema integrado, no como una suma de partes independientes. Surge directamente de la Teoría General de Sistemas (TGS) de Bertalanffy y se convirtió en el paradigma dominante para gestionar complejidad en el siglo XX y XXI.
 
     .row.justify-content-center.mb-4
       .col-lg-10

@@ -121,7 +121,7 @@ export default {
             {
               id: 'd',
               texto:
-                'Un hecho, cifra o símbolo sin interpretar que carece de significado contextual.',
+                'Un conjunto de datos analizados que apoyan la toma de decisiones.',
               esCorrecta: false,
             },
           ],

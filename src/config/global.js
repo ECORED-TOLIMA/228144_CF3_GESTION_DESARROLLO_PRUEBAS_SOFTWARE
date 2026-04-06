@@ -197,7 +197,7 @@ export default {
     {
       termino: '<em>Benchmarking</em>',
       significado:
-        'escenario de pruebas que replica exactamente las condiciones del entorno de producción, utilizado para realizar las validaciones finales antes del despliegue real.',
+        'técnica de gestión que consiste en comparar los procesos o métricas de calidad de la propia organización con las mejores prácticas de la industria para identificar oportunidades de mejora.',
     },
     {
       termino: '<em>Build</em>',
