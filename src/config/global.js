@@ -260,7 +260,7 @@ export default {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Responsable Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Diana Rocío Possos Beltrán ',
