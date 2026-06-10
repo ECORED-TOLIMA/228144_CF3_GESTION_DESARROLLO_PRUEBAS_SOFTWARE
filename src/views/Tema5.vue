@@ -153,27 +153,27 @@
                 th(style="width: 15%; background-color: #FFEBBE;") Ejemplo en <em>software</em>
             tbody
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") Objetivo
+                td(style="background-color: #F6F6F6;") Objetivo
                 td(style="background-color: #F6F6F6;") Qué resultado específico se busca alcanzar con el procedimiento.
                 td(style="background-color: #F6F6F6;") Verificar que un caso de prueba cumple todos los criterios de aceptación.
               tr(data-aos="fade-right")
-                td.text-center Alcance
+                td Alcance
                 td A qué actividades, sistemas o equipos aplica el procedimiento.
                 td Aplica a todos los casos de prueba de regresión del módulo de autenticación.
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") Roles y responsabilidades
+                td(style="background-color: #F6F6F6;") Roles y responsabilidades
                 td(style="background-color: #F6F6F6;") Quién ejecuta, quién aprueba, quién es notificado en cada paso.
                 td(style="background-color: #F6F6F6;") Tester ejecuta; #[i QA lead] revisa; #[i product owner] aprueba resultado final.
               tr(data-aos="fade-right")
-                td.text-center Pasos secuenciales
+                td Pasos secuenciales
                 td La descripción numerada de cada acción a realizar en orden.
                 td 1) Abrir TestRail 2) Seleccionar ciclo 3) Ejecutar caso 4) Registrar resultado.
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") Criterios de aceptación
-                td.text-center(style="background-color: #F6F6F6;") Las condiciones que determinan si el procedimiento fue exitoso.
-                td.text-center(style="background-color: #F6F6F6;") El 100 % de los casos de alta prioridad deben pasar sin defectos críticos abiertos.
+                td(style="background-color: #F6F6F6;") Criterios de aceptación
+                td(style="background-color: #F6F6F6;") Las condiciones que determinan si el procedimiento fue exitoso.
+                td(style="background-color: #F6F6F6;") El 100 % de los casos de alta prioridad deben pasar sin defectos críticos abiertos.
               tr(data-aos="fade-right")
-                td.text-center Registros y evidencias
+                td Registros y evidencias
                 td Qué documentos o capturas se generan como evidencia de la ejecución.
                 td Capturas de pantalla, log de ejecución, reporte de defectos en Jira.
 
@@ -197,10 +197,10 @@
                   h3 Diagrama de flujo
                   p.mb-0 Es el más tradicional. Usa formas geométricas estandarizadas (rectángulos, rombos, óvalos) para representar actividades, decisiones e inicio/fin. Ideal para procedimientos simples.
                 .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-                  img(src='@/assets/curso/tema5/img-12.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema5/img-12.svg', alt="")
               .row.justify-content-center
                 .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-                  img(src='@/assets/curso/tema5/img-13.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema5/img-13.svg', alt="")
                 .col-lg-8(data-aos="fade-left")
                   h3 Diagrama BPMN - Business Process Model and Notation 
                   p.mb-0 Es el estándar internacional (OMG) para modelar procesos de negocio. Rica notación con eventos, actividades, compuertas y flujos. Compatible con herramientas de automatización
@@ -209,7 +209,7 @@
                   h3 Diagrama de carril (#[i swimlane])
                   p.mb-0 Extiende el diagrama de flujo añadiendo carriles horizontales o verticales que representan los actores o departamentos responsables de cada actividad. Muestra claramente quién hace qué.
                 .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-                  img(src='@/assets/curso/tema5/img-14.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema5/img-14.svg', alt="")
 
     .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-lg-8
@@ -220,28 +220,28 @@
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta.cajon.C04.h-100(style="border-radius: 0px")
           figure
-            img(src='@/assets/curso/tema5/img-15.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema5/img-15.svg' alt="")
           .p-4
             h4 Evento de inicio
             p.mb-0 Círculo delgado. Inicia el flujo del proceso. Puede ser disparado por tiempo, mensaje o condición.	
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-right")
         .tarjeta.cajon.C04.h-100(style="border-radius: 0px")
           figure
-            img(src='@/assets/curso/tema5/img-16.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema5/img-16.svg' alt="")
           .p-4
             h4 Evento de fin
             p.mb-0 Círculo grueso. Marca la terminación del proceso o de un flujo. Puede ser final o intermedio.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-left")
         .tarjeta.cajon.C04.h-100(style="border-radius: 0px")
           figure
-            img(src='@/assets/curso/tema5/img-17.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema5/img-17.svg' alt="")
           .p-4
             h4 Actividad / tarea
             p.mb-0 Rectángulo redondeado. Unidad de trabajo que realiza un actor. Puede ser manual, automática o de servicio.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta.cajon.C04.h-100(style="border-radius: 0px")
           figure
-            img(src='@/assets/curso/tema5/img-18.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema5/img-18.svg' alt="")
           .p-4
             h4 Compuerta exclusiva
             p.mb-0 Rombo con X. Punto de decisión donde solo un camino es válido según la condición evaluada (sí/no).
@@ -250,28 +250,28 @@
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta.cajon.C04.h-100(style="border-radius: 0px")
           figure
-            img(src='@/assets/curso/tema5/img-19.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema5/img-19.svg' alt="")
           .p-4
             h4 Compuerta paralela
             p.mb-0 Rombo con +. Divide el flujo en múltiples caminos que se ejecutan simultáneamente (#[i fork/join]).
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-right")
         .tarjeta.cajon.C04.h-100(style="border-radius: 0px")
           figure
-            img(src='@/assets/curso/tema5/img-20.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema5/img-20.svg' alt="")
           .p-4
             h4 Flujo de secuencia
             p.mb-0 Flecha sólida. Conecta elementos y define el orden de ejecución del proceso.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-left")
         .tarjeta.cajon.C04.h-100(style="border-radius: 0px")
           figure
-            img(src='@/assets/curso/tema5/img-21.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema5/img-21.svg' alt="")
           .p-4
             h4 Flujo de mensaje
             p.mb-0 Línea discontinua. Representa la comunicación entre participantes de diferentes #[i pools] o sistemas.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta.cajon.C04.h-100(style="border-radius: 0px")
           figure
-            img(src='@/assets/curso/tema5/img-22.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema5/img-22.svg' alt="")
           .p-4
             h4 #[i Pool / Lane]
             p.mb-0 Contenedor que agrupa actividades de un participante. Los #[i lanes] dividen el #[i pool] por roles o departamentos.

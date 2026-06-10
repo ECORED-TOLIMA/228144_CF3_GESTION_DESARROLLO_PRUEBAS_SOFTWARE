@@ -59,47 +59,47 @@
                 th(style="width: 20%; background-color: #FFEBBE;") Rol de QA
             tbody
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") 1
+                td(style="background-color: #F6F6F6;") 1
                 td(style="background-color: #F6F6F6;") Planificación
                 td(style="background-color: #F6F6F6;") Definir el alcance, viabilidad, cronograma, recursos y riesgos del proyecto antes de iniciar el desarrollo.
                 td(style="background-color: #F6F6F6;") Plan de proyecto, análisis de viabilidad.
                 td(style="background-color: #F6F6F6;") Revisión de riesgos de calidad; estimación del esfuerzo de pruebas.
               tr(data-aos="fade-right")
-                td.text-center 2
+                td 2
                 td Análisis de requisitos
                 td Elicitar, documentar y validar las necesidades funcionales y no funcionales del sistema con los stakeholders.
                 td SRS (especificación de requisitos).
                 td Revisión de requisitos para detectar ambigüedades; preparar casos de prueba de aceptación.
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") 3
+                td(style="background-color: #F6F6F6;") 3
                 td(style="background-color: #F6F6F6;") Diseño del sistema
                 td(style="background-color: #F6F6F6;") Definir la arquitectura, los componentes, las interfaces, los datos y la infraestructura del sistema.
                 td(style="background-color: #F6F6F6;") Documento de diseño, diagramas UML.
                 td(style="background-color: #F6F6F6;") Revisión del diseño; diseño de pruebas de integración y de sistema.
               tr(data-aos="fade-right")
-                td.text-center 4
+                td 4
                 td Implementación
                 td Codificar los componentes del sistema siguiendo los estándares y el diseño aprobado.
                 td Código fuente, componentes integrados.
                 td Pruebas unitarias; code <em>review</em>; análisis estático de código.
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") 5
-                td.text-center(style="background-color: #F6F6F6;") Pruebas
-                td.text-center(style="background-color: #F6F6F6;") Verificar que el sistema cumple los requisitos funcionales y no funcionales; detectar y reportar defectos.
-                td.text-center(style="background-color: #F6F6F6;") Reporte de pruebas, registro de defectos.
-                td.text-center(style="background-color: #F6F6F6;") Ejecución de pruebas funcionales, de rendimiento, seguridad e integración.
+                td(style="background-color: #F6F6F6;") 5
+                td(style="background-color: #F6F6F6;") Pruebas
+                td(style="background-color: #F6F6F6;") Verificar que el sistema cumple los requisitos funcionales y no funcionales; detectar y reportar defectos.
+                td(style="background-color: #F6F6F6;") Reporte de pruebas, registro de defectos.
+                td(style="background-color: #F6F6F6;") Ejecución de pruebas funcionales, de rendimiento, seguridad e integración.
               tr(data-aos="fade-right")
-                td.text-center 6
+                td 6
                 td Despliegue
                 td Instalar, configurar y poner en operación el sistema en el entorno de producción para los usuarios finales.
                 td Sistema en producción, manual de usuario.
                 td Pruebas de aceptación del usuario (UAT); <em>smoke testing</em> en producción.
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") 7
-                td.text-center(style="background-color: #F6F6F6;") Mantenimiento
-                td.text-center(style="background-color: #F6F6F6;") Corregir defectos post-producción, adaptar el sistema a cambios del entorno y agregar nuevas funcionalidades.
-                td.text-center(style="background-color: #F6F6F6;") Parches, actualizaciones, <em>releases</em>.
-                td.text-center(style="background-color: #F6F6F6;") Pruebas de regresión; pruebas de impacto de cambio.
+                td(style="background-color: #F6F6F6;") 7
+                td(style="background-color: #F6F6F6;") Mantenimiento
+                td(style="background-color: #F6F6F6;") Corregir defectos post-producción, adaptar el sistema a cambios del entorno y agregar nuevas funcionalidades.
+                td(style="background-color: #F6F6F6;") Parches, actualizaciones, <em>releases</em>.
+                td(style="background-color: #F6F6F6;") Pruebas de regresión; pruebas de impacto de cambio.
 
     .row.justify-content-center
       .col-lg-10(data-aos="fade-right")
@@ -267,37 +267,37 @@
                 th(style="width: 20%; background-color: #FFEBBE;") Mejor para
             tbody
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") Cascada
+                td(style="background-color: #F6F6F6;") Cascada
                 td(style="background-color: #F6F6F6;") Estables y completos.
                 td(style="background-color: #F6F6F6;") Muy difícil.
                 td(style="background-color: #F6F6F6;") Fase tardía.
                 td(style="background-color: #F6F6F6;") Contratos fijos, sistemas críticos documentados.
               tr(data-aos="fade-right")
-                td.text-center Modelo V
+                td Modelo V
                 td Estables.
                 td Difícil.
                 td Planificada desde el inicio.
                 td Sistemas médicos, financieros, aeronáuticos.
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") Iterativo
+                td(style="background-color: #F6F6F6;") Iterativo
                 td(style="background-color: #F6F6F6;") Parcialmente conocidos.
                 td(style="background-color: #F6F6F6;") Posible entre iteraciones.
                 td(style="background-color: #F6F6F6;") Integrada en cada #[i sprint].
                 td(style="background-color: #F6F6F6;") Productos con cliente disponible y requisitos evolutivos.
               tr(data-aos="fade-right")
-                td.text-center Espiral
+                td Espiral
                 td Inciertos o complejos.
                 td Gestionado por riesgos.
                 td En cada ciclo con análisis de riesgos.
                 td Proyectos grandes con alta incertidumbre técnica.
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") Ágil
-                td.text-center(style="background-color: #F6F6F6;") Cambiantes.
-                td.text-center(style="background-color: #F6F6F6;") Bienvenidos.
-                td.text-center(style="background-color: #F6F6F6;") Continua — TDD / BDD.
-                td.text-center(style="background-color: #F6F6F6;") Startups, apps digitales, equipos pequeños y medianos.
+                td(style="background-color: #F6F6F6;") Ágil
+                td(style="background-color: #F6F6F6;") Cambiantes.
+                td(style="background-color: #F6F6F6;") Bienvenidos.
+                td(style="background-color: #F6F6F6;") Continua — TDD / BDD.
+                td(style="background-color: #F6F6F6;") Startups, apps digitales, equipos pequeños y medianos.
               tr(data-aos="fade-right")
-                td.text-center DevOps
+                td DevOps
                 td Muy cambiantes.
                 td Continuos.
                 td Automatizada — CI/CD.

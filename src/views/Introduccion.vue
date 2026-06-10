@@ -23,9 +23,9 @@
 
     p.mb-4 Partiendo de lo anterior, se invita a acceder al siguiente video, el cual contextualiza y articula la temática que se abordará durante este componente formativo:
 
-    figure.mb-5(data-aos="zoom-in")
+    figure.mb-4(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/zBlljhKiTys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video
 
 

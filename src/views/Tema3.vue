@@ -105,37 +105,37 @@
                 th(style="width: 15%; background-color: #FFEBBE;") Usuarios típicos
             tbody
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") Estratégico
+                td(style="background-color: #F6F6F6;") Estratégico
                 td(style="background-color: #F6F6F6;") Sistema de soporte a ejecutivos.
                 td(style="background-color: #F6F6F6;") ESS/EIS
                 td(style="background-color: #F6F6F6;") Proveer información resumida y tendencias para decisiones de largo plazo.
                 td(style="background-color: #F6F6F6;") Alta dirección, CEO, junta directiva.
               tr(data-aos="fade-right")
-                td.text-center Directivo
+                td Directivo
                 td Sistema de información gerencial.
                 td MIS.
                 td Generar reportes periódicos de gestión para control y planificación táctica.
                 td Gerentes de área, directores funcionales.
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") Directivo
+                td(style="background-color: #F6F6F6;") Directivo
                 td(style="background-color: #F6F6F6;") Sistema de soporte a decisiones.
                 td(style="background-color: #F6F6F6;") DDS
                 td(style="background-color: #F6F6F6;") Modelar escenarios, analizar datos y evaluar alternativas de decisión.
                 td(style="background-color: #F6F6F6;") Analistas, gerentes de nivel medio.
               tr(data-aos="fade-right")
-                td.text-center Conocimiento
+                td Conocimiento
                 td Sistema de trabajo de conocimiento.
                 td KWS
                 td Apoyar la creación y aplicación de conocimiento especializado.
                 td Ingenieros, arquitectos, científicos, abogados.
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") Conocimiento
-                td.text-center(style="background-color: #F6F6F6;") Sistema de automatización de oficinas.
-                td.text-center(style="background-color: #F6F6F6;") OAS
-                td.text-center(style="background-color: #F6F6F6;") Gestionar documentos, comunicaciones y colaboración del conocimiento.
-                td.text-center(style="background-color: #F6F6F6;") Trabajadores de oficina, secretarias, asistentes.
+                td(style="background-color: #F6F6F6;") Conocimiento
+                td(style="background-color: #F6F6F6;") Sistema de automatización de oficinas.
+                td(style="background-color: #F6F6F6;") OAS
+                td(style="background-color: #F6F6F6;") Gestionar documentos, comunicaciones y colaboración del conocimiento.
+                td(style="background-color: #F6F6F6;") Trabajadores de oficina, secretarias, asistentes.
               tr(data-aos="fade-right")
-                td.text-center Operativo
+                td Operativo
                 td Sistema de procesamiento de transacciones.
                 td TPS
                 td Registrar y procesar las transacciones diarias del negocio en tiempo real.

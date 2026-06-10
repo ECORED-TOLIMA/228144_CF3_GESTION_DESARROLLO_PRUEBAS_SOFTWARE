@@ -62,25 +62,25 @@
                 th(style="width: 15%; background-color: #FFEBBE;") Información
             tbody
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") Naturaleza
+                td(style="background-color: #F6F6F6;") Naturaleza
                 td(style="background-color: #F6F6F6;") Bruto, sin interpretar, fragmentado.
                 td(style="background-color: #F6F6F6;") Procesada, organizada, contextualizada.
               tr(data-aos="fade-right")
-                td.text-center Significado
+                td Significado
                 td Ninguno de manera aislada.
                 td Tiene sentido para el receptor.
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") Dependencia
+                td(style="background-color: #F6F6F6;") Dependencia
                 td(style="background-color: #F6F6F6;") Independiente del contexto.
                 td(style="background-color: #F6F6F6;") Depende del contexto y del propósito.
               tr(data-aos="fade-right")
-                td.text-center Ejemplo en <em>software</em>
+                td Ejemplo en <em>software</em>
                 td <em>status</em>=0 en un <em>log</em>.
                 td "El módulo de autenticación finalizó correctamente".
               tr(data-aos="fade-right")
-                td.text-center(style="background-color: #F6F6F6;") Forma
-                td.text-center(style="background-color: #F6F6F6;") Números, letras, señales, <em>bits</em>.
-                td.text-center(style="background-color: #F6F6F6;") Reportes, gráficas, mensajes, alertas.
+                td(style="background-color: #F6F6F6;") Forma
+                td(style="background-color: #F6F6F6;") Números, letras, señales, <em>bits</em>.
+                td(style="background-color: #F6F6F6;") Reportes, gráficas, mensajes, alertas.
 
     p.text-center.mb-4 Existen tipos de datos según su naturaleza como son: 
 

@@ -10,7 +10,7 @@
     .row.justify-content-center.mb-4
       .col-lg-3.col-10.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/tema7/img-01.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema7/img-01.svg' alt="")
       .col-lg-9     
         p Es la rama de la estadística que reúne, organiza, resume y presenta un conjunto de datos mediante tablas, gráficas y medidas numéricas, sin extraer conclusiones más allá de los datos observados. Además, permite transformar un conjunto de datos crudos en información comprensible. Es la base del análisis cuantitativo en #[i software] (métricas de defectos, cobertura, tiempos de respuesta).
         p.mb-0 Para aplicar correctamente la estadística descriptiva, es necesario comprender algunos conceptos fundamentales que definen el origen y la naturaleza de los datos analizados. Estos elementos permiten delimitar el alcance del estudio, garantizar la representatividad de la información y asegurar una interpretación adecuada de los resultados:
