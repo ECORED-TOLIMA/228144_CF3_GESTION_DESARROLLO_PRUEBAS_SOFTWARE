@@ -221,7 +221,7 @@
             figure
               img(src='@/assets/curso/tema4/img-06.svg', alt="Imagen decorativa")
         h4.text-center Modelo espiral
-        p Combina el enfoque iterativo con el énfasis en gestión de riesgos. En cada vuelta de la espiral se evalúan los riesgos antes de avanzar. Boehm (1986).
+        p Combina el enfoque iterativo con el énfasis en gestión de riesgos. En cada vuelta de la espiral se evalúan los riesgos antes de avanzar. Boehm (1988).
         p.mb-0 Ideal para proyectos grandes con alta incertidumbre técnica.
       .col-md.tarjeta.color-primario.p-5(data-aos="flip-up")(style="background-color: #FFEBBE !important")
         .row.justify-content-center.mb-4

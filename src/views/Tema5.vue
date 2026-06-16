@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 5
-      h1 Procesos y gestión BMP
+      h1 Procesos y gestión BPM
 
     .row.justify-content-center.mb-4
       .col-12(data-aos="zoom-in")

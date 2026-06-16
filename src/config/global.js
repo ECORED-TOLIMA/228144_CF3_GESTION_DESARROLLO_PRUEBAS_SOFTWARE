@@ -98,7 +98,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Procesos y gestión BMP',
+        titulo: 'Procesos y gestión BPM',
         desarrolloContenidos: true,
       },
       {
@@ -237,7 +237,7 @@ export default {
     },
     {
       referencia:
-        'Boehm, B. W. (1988). A Spiral Model of Software Development and Enhancement. <em>IEEE Computer</em>, 21(5), 61–72.',
+        'Boehm, B. W. (1988). A Spiral Model of Software Development and Enhancement. <em>IEEE Computer, 21</em>(5), 61–72.',
     },
     {
       referencia:
@@ -259,7 +259,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
