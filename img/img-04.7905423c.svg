@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69.323" height="69.323" viewBox="0 0 69.323 69.323">
+  <g id="Grupo_1180605" data-name="Grupo 1180605" transform="translate(-304.711 -620)">
+    <path id="Trazado_1000574" data-name="Trazado 1000574" d="M0,0H69.323V69.323H0Z" transform="translate(304.711 620)" fill="#19538d"/>
+    <g id="Layer_9" data-name="Layer 9" transform="translate(318.711 633)">
+      <path id="Trazado_1001007" data-name="Trazado 1001007" d="M41.918,35.591l-.075-.1A26.869,26.869,0,0,0,36.528,31.1c-.754-.521-2.095-1.36-3.043-2.034a18.435,18.435,0,1,0-4.436,4.431c.676.948,1.514,2.286,2.035,3.04a26.9,26.9,0,0,0,4.4,5.311l.1.075a3.592,3.592,0,0,0,1.907.527,4.108,4.108,0,0,0,2.748-1.066l1.113-1.11.027-.027a3.941,3.941,0,0,0,.541-4.651ZM18.429,32.05a13.623,13.623,0,1,1,9.631-3.99A13.623,13.623,0,0,1,18.429,32.05Z" fill="#fff"/>
+      <circle id="Elipse_13871" data-name="Elipse 13871" cx="6.5" cy="6.5" r="6.5" transform="translate(11.929 12.22)" fill="#fff"/>
+      <circle id="Elipse_13873" data-name="Elipse 13873" cx="3.909" cy="3.909" r="3.909" transform="translate(-2.98 33.311)" fill="#fff"/>
+      <circle id="Elipse_13874" data-name="Elipse 13874" cx="3.909" cy="3.909" r="3.909" transform="translate(8.02 39.536)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

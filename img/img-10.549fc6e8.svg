@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="581" height="239" viewBox="0 0 581 239">
+  <g id="Grupo_1180610" data-name="Grupo 1180610" transform="translate(-10193 7025.583)">
+    <path id="Trazado_1001014" data-name="Trazado 1001014" d="M0,0H581V239H0Z" transform="translate(10193 -7025.583)" fill="#dfefff"/>
+    <text id="Evaluación_de_variables_a_lo_largo_del_tiempo" data-name="Evaluación de variables a lo largo del tiempo" transform="translate(10313 -6989)" fill="#19538d" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">Evaluación de variables a lo largo del tiempo</tspan></text>
+    <text id="Ejemplo:_tendencias_de_defectos_por_sprints" data-name="Ejemplo: tendencias de defectos por sprints" transform="translate(10327 -6968)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="0">Ejemplo: tendencias de defectos por sprints</tspan></text>
+    <path id="Trazado_1001023" data-name="Trazado 1001023" d="M10615.445-7463.9l-44.463,13.517-48.375,19.919-43.041-40.194-45.529,32.013-46.6,35.926v46.6h228.006Z" transform="translate(-17.328 532)" fill="#cf9eff"/>
+    <g id="Grupo_1180609" data-name="Grupo 1180609" transform="translate(-17.328 532)">
+      <text id="S1" transform="translate(10379.327 -7336.315)" fill="#62249e" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">S1</tspan></text>
+      <text id="S2" transform="translate(10424.163 -7336.315)" fill="#19538d" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">S2</tspan></text>
+      <text id="S3" transform="translate(10469.163 -7336.315)" fill="#62249e" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">S3</tspan></text>
+      <text id="S4" transform="translate(10514.163 -7336.315)" fill="#19538d" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">S4</tspan></text>
+      <text id="S5" transform="translate(10559.163 -7336.315)" fill="#62249e" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">S5</tspan></text>
+      <text id="S6" transform="translate(10604.163 -7336.315)" fill="#19538d" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">S6</tspan></text>
+      <path id="Trazado_1001020" data-name="Trazado 1001020" d="M8819.5-8050.46v124.184H9126.17" transform="translate(1528.33 569.46)" fill="none" stroke="#707070" stroke-width="2"/>
+      <path id="Trazado_1001022" data-name="Trazado 1001022" d="M10615.445-7463.9l-44.463,13.517-48.375,19.919-43.041-40.194-45.529,32.013-46.6,35.926" fill="none" stroke="#62249e" stroke-width="3"/>
+    </g>
+    <circle id="Elipse_13877" data-name="Elipse 13877" cx="6" cy="6" r="6" transform="translate(10365 -6878)" fill="#62249e"/>
+    <circle id="Elipse_13878" data-name="Elipse 13878" cx="6" cy="6" r="6" transform="translate(10411 -6913)" fill="#62249e"/>
+    <circle id="Elipse_13880" data-name="Elipse 13880" cx="6" cy="6" r="6" transform="translate(10500 -6905)" fill="#62249e"/>
+    <circle id="Elipse_13881" data-name="Elipse 13881" cx="6" cy="6" r="6" transform="translate(10545 -6924)" fill="#62249e"/>
+    <circle id="Elipse_13882" data-name="Elipse 13882" cx="6" cy="6" r="6" transform="translate(10591 -6938)" fill="#62249e"/>
+    <circle id="Elipse_13879" data-name="Elipse 13879" cx="6" cy="6" r="6" transform="translate(10456 -6945)" fill="#62249e"/>
+  </g>
+</svg>

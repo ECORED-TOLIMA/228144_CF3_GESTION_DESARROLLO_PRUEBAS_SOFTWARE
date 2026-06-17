@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="581" height="239" viewBox="0 0 581 239">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Elipse_13876" data-name="Elipse 13876" cx="74" cy="74" r="74" fill="#7dbfff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1180612" data-name="Grupo 1180612" transform="translate(-10193 8105.538)">
+    <rect id="Rectángulo_456937" data-name="Rectángulo 456937" width="581" height="239" transform="translate(10193 -8105.538)" fill="#dfefff"/>
+    <text id="Variables_cualitativas_nominales" data-name="Variables cualitativas nominales" transform="translate(10359 -8075)" fill="#19538d" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">Variables cualitativas nominales</tspan></text>
+    <text id="Ejemplo:_Distribución_de_defectos_por_categoría._" data-name="Ejemplo: Distribución de defectos por categoría.
+" transform="translate(10312 -8054)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="0">Ejemplo: Distribución de defectos por categoría.</tspan><tspan x="0" y="24"></tspan></text>
+    <text id="_40_F" data-name="40% F" transform="translate(10599 -7995.554)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="0">40% F</tspan></text>
+    <text id="_40_F-2" data-name="40% F" transform="translate(10599 -7966.554)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="0">40% F</tspan></text>
+    <text id="_40_F-3" data-name="40% F" transform="translate(10599 -7937.554)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="0">40% F</tspan></text>
+    <text id="_40_F-4" data-name="40% F" transform="translate(10599 -7908.554)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="0">40% F</tspan></text>
+    <g id="Grupo_1180607" data-name="Grupo 1180607" transform="translate(-568.711 72.208)">
+      <path id="Trazado_1001018" data-name="Trazado 1001018" d="M74.238,0A74.238,74.238,0,1,1,0,74.238,74.238,74.238,0,0,1,74.238,0Z" transform="translate(10973 -8104)" fill="#9ecfff"/>
+      <g id="Enmascarar_grupo_1178550" data-name="Enmascarar grupo 1178550" transform="translate(10973 -8104)" clip-path="url(#clip-path)">
+        <path id="Trazado_1001015" data-name="Trazado 1001015" d="M11058.258-8003l79.707,44.247-58.12,43.506-65.259-10.2v-3.06Z" transform="translate(-10984.019 8077.238)" fill="#cf9eff"/>
+        <path id="Trazado_1001017" data-name="Trazado 1001017" d="M10968.04-8013.915l68.178,5.229,8.246,3.017-34.189,72.4-16.895-4.625c-4.224-1.157-30.167-48.872-30.167-48.872s2.263-12.67,3.017-16.894S10968.04-8013.915,10968.04-8013.915Z" transform="translate(-10970.406 8080.13)" fill="#ffd470"/>
+        <path id="Trazado_1001019" data-name="Trazado 1001019" d="M11043.172-8122l.051,87.193-85.568-3.771,16.361-57.755s23.111-9.517,24.471-9.856S11043.172-8122,11043.172-8122Z" transform="translate(-10968.934 8108.77)" fill="#b0c0d2"/>
+      </g>
+    </g>
+    <rect id="Rectángulo_457059" data-name="Rectángulo 457059" width="17" height="17" transform="translate(10575 -8009.554)" fill="#9ecfff"/>
+    <rect id="Rectángulo_457060" data-name="Rectángulo 457060" width="17" height="17" transform="translate(10575 -7980.554)" fill="#b0c0d2"/>
+    <rect id="Rectángulo_457061" data-name="Rectángulo 457061" width="17" height="17" transform="translate(10575 -7951.554)" fill="#ffd470"/>
+    <rect id="Rectángulo_457062" data-name="Rectángulo 457062" width="17" height="17" transform="translate(10575 -7922.554)" fill="#dda2ff"/>
+  </g>
+</svg>

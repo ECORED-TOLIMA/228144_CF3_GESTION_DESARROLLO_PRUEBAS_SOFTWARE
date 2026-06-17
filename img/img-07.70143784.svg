@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="581" height="239" viewBox="0 0 581 239">
+  <g id="Grupo_1180613" data-name="Grupo 1180613" transform="translate(-809.711 -3594.462)">
+    <rect id="Rectángulo_456934" data-name="Rectángulo 456934" width="581" height="239" transform="translate(809.711 3594.462)" fill="#dfefff"/>
+    <g id="Rectángulo_457054" data-name="Rectángulo 457054" transform="translate(975.711 3705)" fill="#a5fcea" stroke="#707070" stroke-width="1">
+      <path d="M6,0H40a6,6,0,0,1,6,6V92a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" stroke="none"/>
+      <path d="M6,.5H40A5.5,5.5,0,0,1,45.5,6V91.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V6A5.5,5.5,0,0,1,6,.5Z" fill="none"/>
+    </g>
+    <g id="Rectángulo_457055" data-name="Rectángulo 457055" transform="translate(1034.711 3674)" fill="#f6c8ff" stroke="#707070" stroke-width="1">
+      <path d="M6,0H40a6,6,0,0,1,6,6V123a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" stroke="none"/>
+      <path d="M6,.5H40A5.5,5.5,0,0,1,45.5,6V122.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V6A5.5,5.5,0,0,1,6,.5Z" fill="none"/>
+    </g>
+    <g id="Rectángulo_457056" data-name="Rectángulo 457056" transform="translate(1094.711 3747)" fill="#ffd470" stroke="#707070" stroke-width="1">
+      <path d="M6,0H40a6,6,0,0,1,6,6V50a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" stroke="none"/>
+      <path d="M6,.5H40A5.5,5.5,0,0,1,45.5,6V49.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V6A5.5,5.5,0,0,1,6,.5Z" fill="none"/>
+    </g>
+    <g id="Rectángulo_457058" data-name="Rectángulo 457058" transform="translate(1211.711 3727)" fill="#cf9eff" stroke="#707070" stroke-width="1">
+      <path d="M6,0H39a6,6,0,0,1,6,6V70a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" stroke="none"/>
+      <path d="M6,.5H39A5.5,5.5,0,0,1,44.5,6V69.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V6A5.5,5.5,0,0,1,6,.5Z" fill="none"/>
+    </g>
+    <g id="Rectángulo_457057" data-name="Rectángulo 457057" transform="translate(1153.711 3683)" fill="#7dbfff" stroke="#707070" stroke-width="1">
+      <path d="M6,0H40a6,6,0,0,1,6,6V114a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" stroke="none"/>
+      <path d="M6,.5H40A5.5,5.5,0,0,1,45.5,6V113.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V6A5.5,5.5,0,0,1,6,.5Z" fill="none"/>
+    </g>
+    <text id="Variables_cuantitativas_discretas_o_cualitativas_ordinales" data-name="Variables cuantitativas discretas o cualitativas ordinales" transform="translate(883.711 3625)" fill="#19538d" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">Variables cuantitativas discretas o cualitativas ordinales</tspan></text>
+    <text id="Ej:_defectos_por_sprint" data-name="Ej: defectos por sprint" transform="translate(1022.711 3646)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.003em"><tspan x="0" y="0">Ej: defectos por </tspan><tspan y="0" font-family="Roboto-Italic, Roboto" font-style="italic">sprint</tspan></text>
+    <text id="S1" transform="translate(989.711 3819)" fill="#19538d" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">S1</tspan></text>
+    <text id="S2" transform="translate(1048.711 3819)" fill="#19538d" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">S2</tspan></text>
+    <text id="S3" transform="translate(1107.711 3819)" fill="#19538d" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">S3</tspan></text>
+    <text id="S4" transform="translate(1167.711 3819)" fill="#19538d" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">S4</tspan></text>
+    <text id="S5" transform="translate(1224.711 3819)" fill="#19538d" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.003em"><tspan x="0" y="0">S5</tspan></text>
+    <path id="Trazado_1001013" data-name="Trazado 1001013" d="M8819.5-8063.46v137.184H9126.17" transform="translate(-7860.401 11723.775)" fill="none" stroke="#707070" stroke-width="2"/>
+  </g>
+</svg>

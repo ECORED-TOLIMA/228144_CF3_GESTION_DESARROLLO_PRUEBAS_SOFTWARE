@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69.323" height="69.323" viewBox="0 0 69.323 69.323">
+  <g id="Grupo_1180595" data-name="Grupo 1180595" transform="translate(-304.711 -2281)">
+    <path id="Trazado_1000547" data-name="Trazado 1000547" d="M0,0H69.323V69.323H0Z" transform="translate(304.711 2281)" fill="#19538d"/>
+    <g id="mas-informacion" transform="translate(288.578 2294)">
+      <path id="Trazado_1000833" data-name="Trazado 1000833" d="M52.179,17.96V8.787L40.92,20.046h9.173a2.089,2.089,0,0,0,2.086-2.086Z" transform="translate(-8.059 -8.059)" fill="#fff"/>
+      <path id="Trazado_1000834" data-name="Trazado 1000834" d="M64.677,0H46.608V9.9a4.579,4.579,0,0,1-4.574,4.573h-9.9v23.4a4.579,4.579,0,0,0,4.574,4.573H64.677a4.578,4.578,0,0,0,4.573-4.573V4.573A4.579,4.579,0,0,0,64.677,0ZM60.016,34.454H41.368a1.244,1.244,0,1,1,0-2.487H60.016a1.244,1.244,0,1,1,0,2.487Zm0-5.328H41.368a1.244,1.244,0,1,1,0-2.487H60.016a1.244,1.244,0,0,1,0,2.487Zm0-5.328H41.368a1.244,1.244,0,1,1,0-2.487H60.016a1.244,1.244,0,0,1,0,2.487Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
